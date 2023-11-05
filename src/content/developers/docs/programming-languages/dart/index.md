@@ -27,6 +27,7 @@ There are at least two currently maintained libraries for Dart to use the
 
 1. [Web3dart from simonbutler.eu](https://pub.dev/packages/web3dart)
 1. [Ethereum 5.0.0 from darticulate.com](https://pub.dev/packages/ethereum)
+2. [WebThree from dodao.dev](https://pub.dev/packages/webthree)
 
 There are also additional libraries that allow you to manipulate specific Ethereum addresses,
 or that let you retrieve prices of various cryptocurrencies.
